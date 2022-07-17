@@ -8,6 +8,17 @@ d = {
     "email" : "studyfor12@yahoo.com",
     "surname" : "hero"
 }
+d = {
+    "name" : "Prasad",
+    "email" : "studyfor12@yahoo.com",
+    "surname" : "hero"
+}
+
+d = {
+    "name" : "Prasad",
+    "email" : "studyfor12@yahoo.com",
+    "surname" : "hero"
+}
 
 db1 = client['mongotest']
 db1 = client['mongotest']
